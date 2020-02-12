@@ -1,0 +1,297 @@
+
+https://yangshun.github.io/tech-interview-handbook/introduction | Introduction
+
+http://gitimmersion.com/ | Git Immersion
+https://git.github.io/git-reference/ | Git Reference
+
+https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob | abatchy's blog | How to prepare for PWK/OSCP, a noob-friendly guide
+http://overthewire.org/wargames/ | OverTheWire: Wargames
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://www.root-me.org/?lang=en | Welcome [Root Me : Hacking and Information Security learning platform]
+https://www.vulnhub.com/ | Vulnerable By Design ~ VulnHub
+https://blog.g0tmi1k.com/ | Archives
+https://blog.g0tmi1k.com/2012/01/hackademic-rtb1/ | Hackademic RTB1
+https://blog.g0tmi1k.com/2010/05/sitenews-may-2010-scripts/ | May 2010 - Scripts Galore! (Updated)
+https://blog.g0tmi1k.com/2011/11/blog-guides-links/ | Blogs, Feeds, Guides + Links
+https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms.html | abatchy's blog | OSCP-like Vulnhub VMs
+https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf | PWK Syllabus - penetration-testing-with-kali.pdf
+
+https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/common-aliases | oh-my-zsh/plugins/common-aliases at master · robbyrussell/oh-my-zsh · GitHub
+https://gist.github.com/MohamedAlaa/2961058 | tmux shortcuts & cheatsheet · GitHub
+https://github.com/robbyrussell/oh-my-zsh/wiki | Home · robbyrussell/oh-my-zsh Wiki · GitHub
+https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet | Cheatsheet · robbyrussell/oh-my-zsh Wiki · GitHub
+https://dougblack.io/words/zsh-vi-mode.html | Zsh Vi Mode
+https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Options.md | spaceship-prompt/Options.md at master · denysdovhan/spaceship-prompt · GitHub
+https://github.com/zsh-users/zsh-history-substring-search | GitHub - zsh-users/zsh-history-substring-search: 🐠 ZSH port of Fish history search (up arrow)
+https://github.com/zsh-users/zsh-syntax-highlighting | GitHub - zsh-users/zsh-syntax-highlighting: Fish shell like syntax highlighting for Zsh.
+https://github.com/changyuheng/fz | GitHub - changyuheng/fz: Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
+https://github.com/junegunn/fzf#arch-linux | GitHub - junegunn/fzf: A command-line fuzzy finder
+https://github.com/junegunn/fzf/blob/master/bin/fzf-tmux | fzf/fzf-tmux at master · junegunn/fzf · GitHub
+https://github.com/ael-code/zsh-colored-man-pages | GitHub - ael-code/zsh-colored-man-pages: zsh plugin that colorifies man pages
+https://github.com/chrissicool/zsh-256color | GitHub - chrissicool/zsh-256color: ZSH plugin to enhance the terminal environment with 256 colors
+http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/ | Master Your Z Shell with These Outrageously Useful Tips - Blog - Reason I Am Here - Nacho Caballero
+https://github.com/unixorn/awesome-zsh-plugins#oh-my-zsh | GitHub - unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+https://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/ | A Beautifully Productive Terminal Experience - Mike Buss
+https://github.com/mika/zsh-pony | GitHub - mika/zsh-pony: Demo of hot stuff in the Zsh
+http://strcat.de/zsh/#tipps | [ Zsh ]
+https://realpython.com/python-kwargs-and-args/ | Python args and kwargs: Demystified – Real Python
+https://linhmtran168.github.io/blog/2013/12/15/ditching-oh-my-zsh-for-prezto/ | Ditching Oh-my-zsh for Prezto
+http://zsh.sourceforge.net/Guide/zshguide.html | A User's Guide to the Z-Shell
+https://github.com/jwkvam/jupyterlab-vim | GitHub - jwkvam/jupyterlab-vim: Vim notebook cell bindings for JupyterLab
+https://github.com/lambdalisue/jupyter-vim-binding | GitHub - lambdalisue/jupyter-vim-binding: Jupyter meets Vim. Vimmer will fall in love.
+https://training.dbader.org/courses/python-tricks-toolkit/9014-python-tutorial-videos/19343-01-list-comprehensions-mp4 | 01 List Comprehensions.mp4
+https://jlk.fjfi.cvut.cz/arch/manpages/man/zsh-lovers.1 | zsh-lovers(1) — Arch manual pages
+https://leanpub.com/the-tao-of-tmux/read | Read The Tao of tmux | Leanpub
+https://vimawesome.com/?q=cat%3Aintegration | Vim Awesome
+https://vimawesome.com/plugin/vim-tmux-navigator | vim-tmux-navigator - Vim Awesome
+http://learnvimscriptthehardway.stevelosh.com/ | Learn Vimscript the Hard Way
+http://derekwyatt.org/vim/tutorials/novice/ | Vim Novice Videos - Flarfnoogins
+https://opensource.com/article/18/9/tips-productivity-zsh | 5 tips to improve productivity with zsh | Opensource.com
+https://suckless.org/rocks/ | software that sucks less | suckless.org software that sucks less
+https://www.passwordstore.org/ | Pass: The Standard Unix Password Manager
+https://github.com/vimwiki/vimwiki | GitHub - vimwiki/vimwiki: Personal Wiki for Vim
+https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 | vi - What is your most productive shortcut with Vim? - Stack Overflow
+https://github.com/tpope/vim-surround | GitHub - tpope/vim-surround: surround.vim: quoting/parenthesizing made simple
+http://vimdoc.sourceforge.net/htmldoc/usr_toc.html | Vim documentation: usr_toc
+https://unix.stackexchange.com/questions/110251/how-to-put-current-line-at-top-center-bottom-of-screen-in-vim#110252 | keyboard shortcuts - How to put current line at top/center/bottom of screen in vim? - Unix & Linux Stack Exchange
+https://www.privateinternetaccess.com/blog/2018/09/firefox-hardening-guide/ | Firefox Hardening Guide 2018
+
+https://www.kali.org/docs/base-images/kali-linux-hard-disk-install/ | Single Boot Kali | Kali Linux Documentation
+https://www.kali.org/downloads/ | Official Kali Linux Downloads
+https://asia.feralhosting.com/caketama/rutorrent/ | ruTorrent v3.8
+https://mail.protonmail.com/inbox/XauJUoB2teVAU3Ip7-LvLu-TyZyTkkLWmn5n9MgbbdZqs-zBZXxdlWDKbPN9e1RQ0Sr1IWPByrqYc7jQ-Dji6A== | (82) Inbox | jarrettw@protonmail.com | ProtonMail
+https://github.com/caketama/dot | caketama/dot
+https://duckduckgo.com/?t=ffsb&q=remove+item+git&atb=v176-1&ia=web | remove item git at DuckDuckGo
+https://help.bitwarden.com/article/setup-two-step-login/ | Set up two-step login (2FA) | Bitwarden Help & Support
+
+https://duckduckgo.com/?q=civ+vi+starter+guide&t=ffab&atb=v176-1&ia=web | civ vi starter guide at DuckDuckGo
+https://www.strategygamer.com/articles/civilization-vi-best-civilisations-in-civilization-vi/ | The Best Civilizations in Civilisation 6 | Strategy Gamer
+https://civ6.gamepedia.com/How_To_Play_Guide_for_Civ_6 | How To Play Guide for Civ 6 - Civilization 6 (VI) Wiki
+https://www.youtube.com/watch?v=pczrASkYGSo&list=PLs3acGYgI1-tJBJ55aVgYqjX5CTuKhjb7&pbjreload=10 | Civilization 6 - A Tutorial for Complete Beginners - Part 1 - YouTube
+https://alternativeto.net/software/youtube/ | YouTube Alternatives and Similar Software - AlternativeTo.net
+https://duckduckgo.com/?q=python+projects&t=ffsb&atb=v176-1&ia=web | python projects at DuckDuckGo
+https://realpython.com/what-can-i-do-with-python/ | What Can I Do With Python? – Real Python
+https://wiki.archlinux.org/index.php/Xmodmap | xmodmap - ArchWiki
+https://old.reddit.com/r/unixporn/comments/48wmfr/zsh_users_which_do_you_prefer_oh_my_zsh_or_prezto/ | ZSH users which do you prefer Oh My Zsh or Prezto : unixporn
+https://grml.org/zsh/ | grml.org - Zsh
+http://www.bash2zsh.com/ | From Bash to Z Shell: Conquering the Command Line
+https://github.com/alols/xcape | GitHub - alols/xcape: Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
+https://github.com/omarroth/invidious | GitHub - omarroth/invidious: Invidious is an alternative front-end to YouTube
+https://gist.github.com/henrik/1967800 | tmux cheatsheet · GitHub
+https://duckduckgo.com/?q=arch+docker&t=ffsb&atb=v176-1&ia=web | arch docker at DuckDuckGo
+https://wiki.archlinux.org/index.php/Docker | Docker - ArchWiki
+https://docs.docker.com/get-started/ | Orientation and setup | Docker Documentation
+https://www.passwordstore.org/#extensions | Pass: The Standard Unix Password Manager
+https://git.zx2c4.com/password-store/about/ | password-store - Simple password manager using gpg and ordinary unix directories.
+https://wiki.archlinux.org/index.php/GnuPG | GnuPG - ArchWiki
+https://cloud.digitalocean.com/droplets?i=965d4e&preserveScrollPosition=false | DigitalOcean - Droplets
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04 | How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean
+
+https://duckduckgo.com/?q=discogs+dozzy+k&t=ffsb&atb=v176-1&ia=web | discogs dozzy k at DuckDuckGo
+https://www.discogs.com/artist/202097-Donato-Dozzy | Donato Dozzy | Discography | Discogs
+https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D=all+the+shah%27s+men&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsrchIn%5D%5Bseries%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=60&tor%5Bcat%5D%5B%5D=71&tor%5Bcat%5D%5B%5D=72&tor%5Bcat%5D%5B%5D=90&tor%5Bcat%5D%5B%5D=61&tor%5Bcat%5D%5B%5D=73&tor%5Bcat%5D%5B%5D=101&tor%5Bcat%5D%5B%5D=62&tor%5Bcat%5D%5B%5D=63&tor%5Bcat%5D%5B%5D=107&tor%5Bcat%5D%5B%5D=64&tor%5Bcat%5D%5B%5D=74&tor%5Bcat%5D%5B%5D=102&tor%5Bcat%5D%5B%5D=76&tor%5Bcat%5D%5B%5D=77&tor%5Bcat%5D%5B%5D=65&tor%5Bcat%5D%5B%5D=103&tor%5Bcat%5D%5B%5D=115&tor%5Bcat%5D%5B%5D=91&tor%5Bcat%5D%5B%5D=66&tor%5Bcat%5D%5B%5D=78&tor%5Bcat%5D%5B%5D=67&tor%5Bcat%5D%5B%5D=79&tor%5Bcat%5D%5B%5D=80&tor%5Bcat%5D%5B%5D=92&tor%5Bcat%5D%5B%5D=118&tor%5Bcat%5D%5B%5D=94&tor%5Bcat%5D%5B%5D=120&tor%5Bcat%5D%5B%5D=95&tor%5Bcat%5D%5B%5D=81&tor%5Bcat%5D%5B%5D=82&tor%5Bcat%5D%5B%5D=68&tor%5Bcat%5D%5B%5D=69&tor%5Bcat%5D%5B%5D=75&tor%5Bcat%5D%5B%5D=96&tor%5Bcat%5D%5B%5D=104&tor%5Bcat%5D%5B%5D=109&tor%5Bcat%5D%5B%5D=70&tor%5Bcat%5D%5B%5D=112&tor%5Bcat%5D%5B%5D=0&tor%5Bbrowse_lang%5D%5B%5D=1&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5BbrowseFlags%5D%5B%5D=16&&&&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0&thumbnail=true | Torrents page | My Anonamouse
+https://news.ycombinator.com/item?id=21952461 | Vim9: An experimental fork of Vim to explore making Vim script faster and better | Hacker News
+
+https://realpython.com/python-sockets/#troubleshooting | Socket Programming in Python (Guide) – Real Python
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.8.1 documentation
+https://duckduckgo.com/?q=python+3+socket+programming&t=ffab&atb=v176-1&ia=web | python 3 socket programming at DuckDuckGo
+https://rebassjs.org/box/ | Box | Rebass
+https://duckduckgo.com/?q=save+tmux+session+across+reboot&t=ffsb&atb=v176-1&ia=web | save tmux session across reboot at DuckDuckGo
+https://docs.python.org/3/library/subprocess.html | subprocess — Subprocess management — Python 3.8.1 documentation
+https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview | Built-in Types — Python 3.8.1 documentation
+https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/ | Packing and Unpacking Arguments in Python - GeeksforGeeks
+https://www.tutorialspoint.com/python/string_split.htm | Python String split() Method - Tutorialspoint
+https://duckduckgo.com/?q=python+3+convert+bytes+string&t=ffsb&atb=v176-1&ia=web | python 3 convert bytes string at DuckDuckGo
+https://stackoverflow.com/questions/44831055/convert-bytes-to-string-in-python-3-6 | Convert bytes to string in python 3.6 - Stack Overflow
+https://duckduckgo.com/?q=set+time+arch+linux&t=ffsb&atb=v176-1&ia=web | discogs 33emybw at DuckDuckGo
+https://www.discogs.com/Slikback-Lasakaneku-Tomo/release/14216237 | Slikback - Lasakaneku / Tomo (2019, Purple, Vinyl) | Discogs
+https://ubuntu.com/download/desktop/thank-you?country=US&version=19.10&architecture=amd64 | Thank you for downloading Ubuntu Desktop | Ubuntu
+https://duckduckgo.com/?q=install+ubuntu+virtualbox&t=ffsb&atb=v176-1&ia=web&iax=about | 6 Easy Ways to Install Ubuntu on VirtualBox (with Pictures)
+
+https://docs.python.org/3.5/library/sqlite3.html | 12.6. sqlite3 — DB-API 2.0 interface for SQLite databases — Python 3.5.9 documentation
+https://www.w3schools.com/sql/sql_intro.asp | SQL Introduction
+https://www.w3schools.com/Sql/sql_distinct.asp | SQL SELECT DISTINCT Statement
+https://www.w3schools.com/sql/sql_select.asp | SQL SELECT Statement
+https://docs.python.org/3/library/asyncio.html | asyncio — Asynchronous I/O — Python 3.8.1 documentation
+https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c | A simple introduction to Python’s asyncio - By Apoorv Garg
+https://stackoverflow.com/questions/48020593/python-what-are-the-advantages-of-async-over-threads | multithreading - Python: what are the advantages of async over threads? - Stack Overflow
+http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/ | Async Python: The Different Forms of Concurrency · Abu Ashraf Masnun
+https://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/ | Python 3 - An Intro to asyncio - The Mouse Vs. The Python
+https://pymotw.com/3/asyncio/ | asyncio — Asynchronous I/O, event loop, and concurrency tools — PyMOTW 3
+https://hoad.io/blog/playing-with-asyncio/ | Playing with asyncio
+https://gist.github.com/0xpizza/dd5e005a0efeb1edfc939d3a409e22d9 | TCP Network scanner using asyncio for Python 3.7 · GitHub
+https://codereview.stackexchange.com/questions/203577/simple-port-scanner-in-python-3 | Simple port scanner in Python 3 - Code Review Stack Exchange
+https://news.ycombinator.com/item?id=12830586 | I wrote a fast tcp port scanner using Python 3.5 and concurrent.futures.ThreadPo... | Hacker News
+https://github.com/jftuga/universe/blob/master/tcpscan.py | universe/tcpscan.py at master · jftuga/universe · GitHub
+https://docs.python.org/3/library/asyncio.html#module-asyncio | ipaddress — IPv4/IPv6 manipulation library — Python 3.8.1 documentation
+https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote | Git: Delete a branch (local or remote) - makandra dev
+https://stackoverflow.com/questions/26174743/making-a-fast-port-scanner | python - Making a Fast Port Scanner - Stack Overflow
+https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
+https://docs.python.org/3/library/asyncio-stream.html#asyncio-streams | Streams — Python 3.8.1 documentation
+https://docs.python.org/3/ | Sets in Python - GeeksforGeeks
+https://pymotw.com/3/socket/addressing.html | threading — Thread-based parallelism — Python 3.8.1 documentation
+https://www.tutorialspoint.com/python3/python_multithreading.htm | Python 3 - Multithreaded Programming - Tutorialspoint
+https://learnvimscriptthehardway.stevelosh.com/chapters/14.html | Autocommand Groups / Learn Vimscript the Hard Way
+https://github.com/alvan/vim-closetag | GitHub - alvan/vim-closetag: Auto close (X)HTML tags
+
+https://news.ycombinator.com/ | We Only Hire the Trendiest (2016) | Hacker News
+https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea#section2 | 10 Proven Benefits of Green Tea
+https://dev.to/ | 10 Best Linux Command Line Books for Beginners & Experts - DEV Community 👩‍💻👨‍💻
+https://wattenberger.com/blog/react-hooks | Thinking in React Hooks
+https://duckduckgo.com/?q=python+network+scanner&t=ffsb&atb=v176-1&ia=web | python network scanner at DuckDuckGo
+https://www.thepythoncode.com/article/building-network-scanner-using-scapy | How to Make a Network Scanner using Scapy in 5 Minutes - Python Code
+https://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python/ | Port scanner in Python
+https://docs.python.org/3.8/howto/sockets.html | Socket Programming HOWTO — Python 3.8.1rc1 documentation
+https://www.thedrive.com/news/31444/honda-refuses-to-track-stolen-accord-because-owner-didnt-pay-for-hondalink-report | Honda Refuses to Track Stolen Accord Because Owner Didn't Pay for HondaLink: Report - The Drive
+https://duckduckgo.com/?q=python+vulnerability+scanner&t=ffsb&atb=v176-1&ia=web | python vulnerability scanner at DuckDuckGo
+
+https://github.com/caketama/networkscanner/projects/1 | Network Scanner
+https://wiki.archlinux.org/index.php/Dynamic_Kernel_Module_Support | Dynamic Kernel Module Support - ArchWiki
+https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks#Browsing_packages | pacman/Tips and tricks - ArchWiki
+https://wiki.archlinux.org/index.php/Core_utilities#Essentials | Core utilities - ArchWiki
+
+https://discordapp.com/channels/482201508473995264/628680179837042716 | #replicants-nyc-1910
+https://github.com/mkubecek/vmware-host-modules/blob/master/INSTALL | vmware-host-modules/INSTALL at master · mkubecek/vmware-host-modules · GitHub
+https://www.vmware.com/products/workstation-pro.html | Windows VM | Workstation Pro | VMware
+https://www.reddit.com/r/vmware/comments/3fk5uj/vmtools_on_arch_linux_full_screen_or_resizing/ | VMTools on Arch Linux (full screen or re-sizing window is not working) : vmware
+https://wiki.archlinux.org/index.php/VMware | VMware - ArchWiki
+https://duckduckgo.com/?q=vmware+not+found+linux&t=ffsb&atb=v176-1&ia=web | vmware not found linux at DuckDuckGo
+https://duckduckgo.com/?q=arch+vmware+tips+tricks&t=ffsb&atb=v176-1&ia=web | arch vmware tips tricks at DuckDuckGo
+https://wiki.archlinux.org/index.php/VMware#Tips_and_tricks | VMware - ArchWiki
+https://bbs.archlinux.org/viewtopic.php?id=233585 | [SOLVED] VMware guest host - No connection / AUR Issues, Discussion & PKGBUILD Requests / Arch Linux Forums
+https://duckduckgo.com/?q=vmware+workstation+pro+keygen+linux&t=ffsb&atb=v176-1&ia=web | vmware workstation pro keygen linux at DuckDuckGo
+
+https://reactjs.org/docs/thinking-in-react.html | Thinking in React – React
+https://reactjs.org/docs/components-and-props.html | Components and Props – React
+https://codepen.io/gaearon/pen/BwWzwm | Thinking In React: Step 2
+https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website/ | Privacy Analysis of Tiktok’s App and Website | Rufposten
+
+https://gist.githubusercontent.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52/raw/2a93cca1ea82cecfc2bd6dcd2eff700a95c7581e/zshrc | gist.githubusercontent.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52/raw/2a93cca1ea82cecfc2bd6dcd2eff700a95c7581e/zshrc
+https://github.com/zsh-users/zsh-autosuggestions | GitHub - zsh-users/zsh-autosuggestions: Fish-like autosuggestions for zsh
+https://duckduckgo.com/?q=luhn+javascript&t=ffsb&atb=v176-1&ia=web | luhn javascript at DuckDuckGo
+https://stackoverflow.com/questions/12310837/implementation-of-luhn-algorithm | javascript - Implementation of Luhn algorithm - Stack Overflow
+https://rosettacode.org/wiki/Luhn_test_of_credit_card_numbers#JavaScript | Luhn test of credit card numbers - Rosetta Code
+https://en.wikipedia.org/wiki/Luhn_algorithm | Luhn algorithm - Wikipedia
+https://www.w3schools.com/TAGS/ev_onsubmit.asp | HTML onsubmit Event Attribute
+https://duckduckgo.com/?q=onchange+javascript&t=ffsb&atb=v176-1&ia=web | onchange form type at DuckDuckGo
+https://stackoverflow.com/questions/574941/best-way-to-track-onchange-as-you-type-in-input-type-text | javascript - Best way to track onchange as-you-type in input type="text"? - Stack Overflow
+https://stackoverflow.com/questions/5024056/how-to-pass-parameters-on-onchange-of-html-select | javascript - How to pass parameters on onChange of html select - Stack Overflow
+https://pomb.us/build-your-own-react/ | Build your own React
+https://github.com/wesQ3/vim-windowswap | GitHub - wesQ3/vim-windowswap: Swap your windows without ruining your layout
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/clear | clear - CSS: Cascading Style Sheets | MDN
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask | Designing a RESTful API with Python and Flask - miguelgrinberg.com
+https://duckduckgo.com/?q=redshift+arch&t=ffsb&atb=v176-2&ia=web | redshift arch at DuckDuckGo
+https://wiki.archlinux.org/index.php/Redshift | Redshift - ArchWiki
+https://justgetflux.com/ | f.lux: software to make your life better
+https://alternativeto.net/software/redshift/ | Redshift Alternatives and Similar Software - AlternativeTo.net
+
+https://docs.emmet.io/abbreviations/ | Abbreviations Syntax
+https://www.w3schools.com/CSSref/pr_text_color.asp | CSS color property
+https://www.w3schools.com/colors/colors_picker.asp | HTML Color Picker
+https://duckduckgo.com/?q=%21g+html+resume+examples&t=ffsb&atb=v176-1 | duckduckgo.com/?q=%21g+html+resume+examples&t=ffsb&atb=v176-1
+https://speckyboy.com/free-html-resume-templates/ | 21 Professional HTML & CSS Resume Templates for Free Download (and Premium) - Super Dev Resources
+http://elemisfreebies.com/07/05/free-html-resume-template/ | Free HTML Resume Template | elemisfreebies
+https://github.com/honza/vim-snippets | GitHub - SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://booklovinmamas.com/best-kubernetes-books/ | Best Books to Learn Kubernetes (2019) - BLGM
+https://css-tricks.com/one-page-resume-site/ | One Page Résumé Site | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing | box-sizing - CSS: Cascading Style Sheets | MDN
+https://mozilla.github.io/curriculum-final/intermediate-web-lit-one/session01-css-pyramid.html#overview | Intermediate Web Literacy I | CSS Word Pyramid
+https://github.com/mattn/emmet-vim | GitHub - mattn/emmet-vim: emmet for vim: http://emmet.io/
+https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python | How to use the Random Module in Python
+https://duckduckgo.com/?q=python+os+cowsay+flask&t=ffab&atb=v176-1&ia=web | python os cowsay flask at DuckDuckGo
+
+https://github.com/pyllyukko/user.js | GitHub - pyllyukko/user.js: user.js -- Firefox configuration hardening
+https://wiki.bash-hackers.org/ | The Bash Hackers Wiki [Bash Hackers Wiki]
+https://www.mavensecurity.com/resources/web-security-dojo | Web Security Dojo
+https://catonmat.net/cookbooks/curl | Curl Cookbook
+https://github.com/awesome-selfhosted/awesome-selfhosted | GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+https://paulstamatiou.com/getting-started-with-security-keys/ | Getting started with security keys — PaulStamatiou.com
+https://www.privacytools.io/ | PrivacyTools - Encryption Against Global Mass Surveillance
+https://www.wezm.net/technical/2019/10/useful-command-line-tools/ | An Illustrated Guide to Some Useful Command Line Tools - WezM.net by Wesley Moore
+
+http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/ | Linux Tips: find all files of a particular size - MDLog:/sysadmin
+https://github.com/pwndbg/pwndbg | GitHub - pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/longld/peda | GitHub - longld/peda: PEDA - Python Exploit Development Assistance for GDB
+https://github.com/gdbinit/Gdbinit | GitHub - gdbinit/Gdbinit: Gdbinit for OS X, iOS and others - x86, x86_64 and ARM
+https://github.com/Gallopsled/pwntools | GitHub - Gallopsled/pwntools: CTF framework and exploit development library
+https://radare.org/n/radare2.html | radare
+https://www.howtogeek.com/435164/how-to-use-the-xargs-command-on-linux/ | How to Use the xargs Command on Linux
+
+https://redacted.ch/torrents.php?type=snatched&userid=1161 | Cake's snatched torrents :: Redacted
+https://redacted.ch/login.php | Login :: Redacted
+https://redacted.ch/torrents.php?id=1189859&torrentid=2553153 | Logos - Fifth Monarchy [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1190022&torrentid=2553362 | Brecc - Delusional World [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189819&torrentid=2553178 | Ossia - The Marzahn Versions [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189953&torrentid=2553251 | Rowka - Deconstruct EP [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1190032&torrentid=2553372 | Yordan Kostov - Yordan Kostov Ensemble Moderne [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1190013&torrentid=2553353 | Lex Gorrie - Intrusive Thoughts EP [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1190007&torrentid=2553343 | Killawatt - Death in a Jeweled Box [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189453&torrentid=2552377 | Cloutier / Sasseville - CUCH-151 - D'eux (2019) [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189342&torrentid=2552458 | Daniel Menche - Thawing Gravity [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189693&torrentid=2552936 | Edge of Town - Atmospheric Background [2019] :: Redacted
+https://redacted.ch/torrents.php?id=1189396&torrentid=2552281 | Acid Hamam - Hammok [2019] :: Redacted
+https://boomkat.com/ | Boomkat: Independent Music Specialist selling Vinyl, CD’s, Cassettes and Downloads worldwide
+https://boomkat.com/products/grapefruit-regret | Karenn - Grapefruit Regret - Boomkat
+https://boomkat.com/products/raupenbahn | THOMAS BRINKMANN - Raupenbahn - Boomkat
+https://www.residentadvisor.net/features/3550 | RA: October's Best Music
+https://www.programcreek.com/python/example/69241/sqlalchemy.and_ | sqlalchemy.and_ Python Example
+
+https://github.com/tpope/vim-unimpaired/ | vim-unimpaired/unimpaired.txt at master · tpope/vim-unimpaired · GitHub
+https://joelhooks.com/blog/2013/04/23/5-essential-vim-plugins | 5 Essential VIM Plugins That Greatly Increase my Productivity
+https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9 | 10 essential Vim plugins for 2018 - Alex Hunt - Medium
+https://github.com/scrooloose/nerdtree | GitHub - scrooloose/nerdtree: A tree explorer plugin for vim.
+https://github.com/junegunn/fzf | GitHub - junegunn/fzf: A command-line fuzzy finder
+
+https://selectstarsql.com/innocence.html | Claims of Innocence
+https://www.discogs.com/Oil-Thief-The-Colony/release/14164087 | Oil Thief - The Colony (2019, Vinyl) | Discogs
+https://pymotw.com/3/sqlite3/ | sqlite3 — Embedded Relational Database — PyMOTW 3
+https://duckduckgo.com/?q=conn.row_factory+%3D+sqlite3.Row&t=ffsb&atb=v176-2&ia=qa | conn.row_factory = sqlite3.Row at DuckDuckGo
+https://stackoverflow.com/questions/44009452/what-is-the-purpose-of-the-row-factory-method-of-an-sqlite3-connection-object#44009503 | python - What is the purpose of the row_factory method of an sqlite3 Connection object? - Stack Overflow
+https://github.com/gabrielvtan/ByteAcademy-FullStack/blob/master/Phase1/Week4/4.1-TerminalTrader/mapper.py | ByteAcademy-FullStack/mapper.py at master · gabrielvtan/ByteAcademy-FullStack · GitHub
+
+https://docs.sqlalchemy.org/en/14/orm/tutorial.html | Object Relational Tutorial — SQLAlchemy 1.4 Documentation
+https://www.tutorialspoint.com/sqlite/sqlite_python.htm | SQLite - Python - Tutorialspoint
+https://duckduckgo.com/?q=sql+alchemy+books&t=ffsb&atb=v176-1&ia=web | sql alchemy books at DuckDuckGo
+https://booklovinmamas.com/best-numpy-books/ | Best Books to Learn Numpy (2019) - BLGM
+https://www.mssqltips.com/sqlservertip/2380/sql-server-database-design-with-a-one-to-one-relationship/ | SQL Server Database Design with a One To One Relationship
+https://docs.sqlalchemy.org/en/13/orm/basic_relationships.html | Basic Relationship Patterns — SQLAlchemy 1.3 Documentation
+https://docs.sqlalchemy.org/en/13/orm/relationship_api.html#sqlalchemy.orm.relationship | Relationships API — SQLAlchemy 1.3 Documentation
+https://docs.sqlalchemy.org/en/13/orm/tutorial.html#orm-tutorial-relationship | Object Relational Tutorial — SQLAlchemy 1.3 Documentation
+https://www.w3schools.com/sql/sql_drop_table.asp | SQL DROP TABLE Statement
+https://duckduckgo.com/?q=sqlite+rowfactory&t=ffsb&atb=v176-1&ia=web&iax=qa | sqlite rowfactory at DuckDuckGo
+https://www.w3schools.com/sql/ | SQL SELECT Statement
+
+https://docs.sqlalchemy.org/en/13/orm/tutorial.html | Object Relational Tutorial — SQLAlchemy 1.3 Documentation
+https://www.pythoncentral.io/overview-sqlalchemys-expression-language-orm-queries/ | Overview of SQLAlchemy's Expression Language and ORM Queries | Python Central
+https://duckduckgo.com/?q=%21g+python+sqlalchemy+tutorial&t=ffsb&atb=v176-1 | duckduckgo.com/?q=%21g+python+sqlalchemy+tutorial&t=ffsb&atb=v176-1
+https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/ | SQLAlchemy ORM Tutorial for Python Developers
+https://docs.sqlalchemy.org/en/13/core/engines.html#database-urls | Engine Configuration — SQLAlchemy 1.3 Documentation
+https://docs.sqlalchemy.org/en/13/glossary.html#term-dbapi | Table of Contents — SQLAlchemy 1.3 Documentation
+http://www.faqs.org/rfcs/rfc1738.html | RFC 1738 - Uniform Resource Locators (URL) (RFC1738)
+https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
+
+https://pypi.org/ | PyPI · The Python Package Index
+https://spacy.io/usage/spacy-101 | spaCy 101: Everything you need to know · spaCy Usage Documentation
+https://realpython.com/python-virtual-environments-a-primer/ | Python Virtual Environments: A Primer – Real Python
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world | The Flask Mega-Tutorial Part I: Hello, World! - miguelgrinberg.com
+https://bokeh.pydata.org/en/latest/ | Welcome to Bokeh — Bokeh 1.3.4 documentation
+https://likegeeks.com/python-web-crawler-scrapy/ | Create your first Python web crawler using Scrapy - Like Geeks
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 6.2.0 documentation
+https://docs.sqlalchemy.org/en/13/core/tutorial.html | SQL Expression Language Tutorial — SQLAlchemy 1.3 Documentation
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/ | Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation
+
+https://duckduckgo.com/?q=advanced+linux+commandline&t=ffsb&atb=v176-1&ia=web | advanced linux commandline at DuckDuckGo
+https://duckduckgo.com/?q=bash+scripting&t=ffsb&atb=v176-1&ia=web | bash scripting at DuckDuckGo
+https://linuxconfig.org/bash-scripting-tutorial | Bash scripting Tutorial - LinuxConfig.org
+https://devhints.io/bash | Bash scripting cheatsheet
+https://www.tecmint.com/20-advanced-commands-for-middle-level-linux-users/ | 20 Advanced Commands for Middle Level Linux Users
+https://www.tecmint.com/20-advanced-commands-for-linux-experts/ | 20 Advanced Commands for Linux Experts
+https://editorial.rottentomatoes.com/guide/best-movies-of-2019/ | The Best Movies of 2019 (So Far) << Rotten Tomatoes – Movie and TV News
+
+https://www.discogs.com/lists/Best-Power-Electronics-Noise-and-Industrial-Releases/306169 | Best Power Electronics, Noise, and Industrial Releases by comintern111 | Discogs Lists
+https://www.discogs.com/artist/22501-SPK | SPK | Discography & Songs | Discogs
+https://www.discogs.com/Brighter-Death-Now-Necrose-Evangelicum/master/38554 | Brighter Death Now - Necrose Evangelicum | Releases | Discogs
+https://www.discogs.com/artist/24658-Brighter-Death-Now | Brighter Death Now | Discography & Songs | Discogs
+https://redacted.ch/artist.php?id=100896 | Funker Vogt :: Redacted
+https://www.discogs.com/label/5387-Susan-Lawly | Susan Lawly Label | Releases | Discogs
