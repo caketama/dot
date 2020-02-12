@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/c/code/projects/microblog/.git'
+let g:netrw_dirhist_2='/home/c/code/projects/microblog/app'
+let g:netrw_dirhist_1='/home/c/.local/bin/statusbar'

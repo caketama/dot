@@ -1,0 +1,47 @@
+#!/bin/sh
+alias ka="killall" \
+    exa="exa --group-directories-first --color=always"\
+    d="dirs -v | head -10" \
+	mkd="mkdir -pv" \
+	p="sudo pacman" \
+	SS="sudo systemctl" \
+	f="$FILE" \
+	g="git" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	sdn="sudo shutdown -h now" \
+    lsl=" ls | less" \
+    lsa="ls -a" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi" \
+	ref="shortcuts >/dev/null; source ~/.config/shortcutrc" \
+	upc="sudo pacman -Syu; pkill -RTMIN+8 i3blocks" \
+	lsp="pacman -Qett --color=always | less" \
+	cls="clear && ls" \
+	wr="wal -R" \
+	pwr="wr && P" \
+   	P="sh pia.run" \
+	sra="source ~/.config/aliasrc" \
+	t="tmux" \
+    py="python" \
+    h="function hdi(){ howdoi $* -c -n 5 -e duckduckgo | less; }; hdi" \
+    j="encfs ~/.journal ~/journal" \
+    ju="fusermount -u ~/journal" \
+    crypt="encfs ~/.crypt ~/crypt" \
+    dcrypt="fusermount -u ~/crypt" \
+    mem="ps axch -o cmd:15,%mem --sort=-%mem | head" \
+    rr="rm -rdf" \
+    ipy="ipython --profile=cake" \
+    cpy="cp ~/github/gitignore/Python.gitignore .; mv Python.gitignore .gitignore" \
+    xr="xrandr --output eDP1 --auto --output HDMI2 --auto --scale 1.5x1.5 --right-of eDP1; setbg bgr/buddha.jpg" \
+    pyc="pyclean" \
+    cr="cp -r /home/c/code/byte/phase2/react/myapp/* . "\
+    tch="touch {index.html,index.css,script.js}" \
+    cake="ssh cake@67.205.144.200" \
+
+
+# Use neovim for vim if present.
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" 
+
+vf() { fzf | xargs -r -I % $EDITOR % ;}
